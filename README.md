@@ -8,4 +8,4 @@ Rules of Casino Royale:
 
 Working:
 
-This uses rand() function to create a function from <cstdlib> preprocessor directory to generate an random variable between 1 to 10.   
+This uses rand() function to create a function from cstdlib preprocessor directory to generate an random variable between 1 to 10.   
