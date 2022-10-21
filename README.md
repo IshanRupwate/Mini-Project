@@ -2,9 +2,9 @@
 Using C++ I have created a small mini game "Casino Royale".
 
 Rules of Casino Royale:
-1.Bet an amount for a number between 1 to 10.
+1.Bet an amount for a number between 1 to 10.
 2.If he predicts the number right he gets tenfold of his betting amount.
-3.If he loses he loses his money.
+3.If he loses he loses three times his money.
 
 Working:
 
